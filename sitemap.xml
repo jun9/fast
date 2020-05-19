@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://fast.tk/fast/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://fast.tk/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://fast.tk/fast/jupyter/2020/02/20/test.html</loc>
+<loc>https://fast.tk/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://fast.tk/fast/about/</loc>
+<loc>https://fast.tk/about/</loc>
 </url>
 <url>
-<loc>https://fast.tk/fast/</loc>
+<loc>https://fast.tk/</loc>
 </url>
 <url>
-<loc>https://fast.tk/fast/search/</loc>
+<loc>https://fast.tk/search/</loc>
 </url>
 <url>
-<loc>https://fast.tk/fast/categories/</loc>
+<loc>https://fast.tk/categories/</loc>
 </url>
 </urlset>
