@@ -4,7 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This blog is where I will put some of my contents related to *Data*. 
+
+Under Construction Now...
+
+My name: Yong
+
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
