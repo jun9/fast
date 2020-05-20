@@ -39,8 +39,8 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: jun94
-    github: jun9
+    twitter:
+    github:
 
 # Set this to true to get LaTeX math equation support
 use_math: 
