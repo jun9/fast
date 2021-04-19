@@ -4,12 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-This blog is where I will put some of my contents related to *Data*. 
+This blog is related to *Data*. 
 
 Under Construction Now...
 
 My name: Yong
-
+Link to my [old blog] (http://k151.weebly.com/)
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
