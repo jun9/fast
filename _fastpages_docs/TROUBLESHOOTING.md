@@ -29,7 +29,7 @@ See the [Upgrading guide](https://github.com/fastai/fastpages/blob/master/_fastp
 
 - [ ] In your GitHub repository, you will have a tab called **Actions**.  To find build errors, click on the `Event` dropdown list and select `push`.  Browse through tthe logs to see if you can find an error.  If you receive an error, read the error message and try to debug.
 
-## Step 5: Once you have performed all the above steps, post your issue in the fastai formus or a GitHub Issue.
+## Step 5: Once you have performed all the above steps, post your issue in the fastai forums or a GitHub Issue.
 
 - [ ] Use the [nbdev & blogging category](https://forums.fast.ai/c/fastai-users/nbdev/48) to specify your problem if posting on the fastpages forums.
 - [ ] If you cannot find a similar issue create a new thread instead of commenting on an unrelated one.
@@ -62,5 +62,11 @@ See the [Upgrading guide](https://github.com/fastai/fastpages/blob/master/_fastp
     ```
 
 2. Can you customize the styling or theme of fastpages?  **A**: See [Customizing Fastpages](https://github.com/fastai/fastpages#customizing-fastpages)
+
+3. Your initial build failed on GH-Pages Status
+
+    `Error messsage: Unable to build page. Please try again later.` `Error: Process completed with exit code 1.`
+    
+    If your github username contains capital letters e.g. YourUserName, go to [config file](../_config.yml#L17) line 17 and rename `YourUserName.github.io` to `yourusername.github.io`. After the commit blog should build without error.
 
 See the [FAQ](https://github.com/fastai/fastpages#faq) for frequently asked questions.
