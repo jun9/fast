@@ -1,3 +1,8 @@
+---
+toc: false
+layout: post
+categories: [Reviews]
+---
 # Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations.” Research Policy 32, no. 10 (December 2003): 1753–69. https://doi.org/10.1016/S0048-7333(03)00061-1.
 
 
