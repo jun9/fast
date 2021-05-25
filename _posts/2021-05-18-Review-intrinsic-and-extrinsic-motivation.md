@@ -37,6 +37,7 @@ Can the instrumental value behind the extrinsic motivation be intrinsic?
 
 What happens when extrinsic motivation is applied in inherently interesting activities?
 
+If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?
 
 
 
