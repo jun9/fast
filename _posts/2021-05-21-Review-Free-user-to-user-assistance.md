@@ -17,6 +17,7 @@ Almost all (98%) the effort expended by community information providers in fact 
 
 
 - Participation in the community brings intrinsic private benefits, such as learning, enjoyment and sense of ownership
+
 - It typically took very limited amount of time/efforts to provide most of the off-the-shelf solution information
 
 
@@ -24,7 +25,7 @@ Almost all (98%) the effort expended by community information providers in fact 
 
 - Does this organic community support work for all type of OS projects (less to learn), developer systems/tools, consumer products/apps? Can it scale to support greater number of users?
 
-- How about other types of OS community contributions, testing, bug fixes, and new features?
+- How about other types of OS community contributions, testing, bug fixes, and new features? Tons of free data from GitHub API and popular forum software analytics.
 
 - Does the quality of community support depend on the type of support system, in this case Usenet help forum, which have evolved into email list, web forum, chatroom, slack/discord, and specialized helpdesk service etc.?
 
