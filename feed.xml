@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-25T12:35:26-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review Why Hacker Do What They Do</title><link href="https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do.html" rel="alternate" type="text/html" title="Review Why Hacker Do What They Do" /><published>2021-05-23T00:00:00-05:00</published><updated>2021-05-23T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do.html">&lt;p&gt;Lakhani, Karim, and Robert G. Wolf. “Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects.” SSRN Electronic Journal, 2003. https://doi.org/10.2139/ssrn.443040.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-25T13:57:38-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Myths of Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Myths of Intrinsic Motivation" /><published>2021-05-24T00:00:00-05:00</published><updated>2021-05-24T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html">&lt;p&gt;Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9&lt;/p&gt;
+
+&lt;h2 id=&quot;absctract&quot;&gt;Absctract:&lt;/h2&gt;
+
+&lt;p&gt;One scientist’s answer to Daniel Pink’s book, Drive, which claims that extrinsic incentives – money, bonuses, praise, and recognition – have the paradoxical effect of lessening intrinsic motivation. Reiss cites multiple flaws with the underlying science, discusses studies and scholarly literature reviews not mentioned in Pink’s book, and cites respected researchers who do not believe that extrinsic incentives undermine intrinsic motivation.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-arguments&quot;&gt;Main arguments:&lt;/h2&gt;
+
+&lt;p&gt;The term undermining theory refers collectively to self-perception theory, overjustifcation theory, cognitive evaluation theory, and self-determination theory in social psychology, which predict the use of rewards and incentives undermines intrinsic motivation, and view rewards, bonus, and incentives are perceived as efforts to control. Reiss believe the undermining effect are simply well-know negative effects of rewards, such as distraction, performance anxiety.&lt;/p&gt;
+
+&lt;p&gt;Criticisms of social psychology of motivation:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Extrinsic motivation have no construct validity, three components distinguishing between intrinsic and extrinsic motivation do not exist:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;(extrinsic) means versus (intrinsic) ends: means drive their motivational properties from ends&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(intrinsic) psychological versus (extrinsic) biological needs: Cognition brain science says every need is part biological and part psychological. There’s only one reward mechanism.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the analysis of psychological needs as competence, autonomy and relatedness is arbitrary&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;No reliable and valid measures of the distinction between intrinsic and extrinsic motivation:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Results of behavioral freechoice assessments depend on the available options in the environment in which the assessments are conducted. The measures of intrinsic vs. extrinsic motivation are open to circular interpretation.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The studies lacked adequate experimental controls and scientific robustness&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The studies confounded the controlling and distracting aspects of rewards. Reiss and Sushinsky (1975, 1976) suggested that undermining effects can be reinterpreted as annoying distractions conditioned to the task through Pavlovian association.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Claims of practical significance for education and business are greatly exaggerated&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Almost all studies are distracting reward given once, the long term effect is still not clear. The theory cannot imply that base salaries can undermine intrinsic motivation.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Most people are not motivated by self-determination until it is taken away. They sometimes may view rewards as controlling, but it is much more common for people to see their pursuit of rewards and incentives as freely determined. Eisenberger et al. (1999) were right when they wrote “reward increases perceived self-determination” (p. 677). Evaluating the effects of reward on task interest is worth pursuing. It is best studied, however, without distinguishing between intrinsic and extrinsic motivation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+
+&lt;p&gt;Reiss, S., &amp;amp; Sushinsky, L.W. (1976). Te competing response hypothesis of decreased play effects: A reply to Lepper and Greene. Journal of Personality and Social Psychology, 33, 233-244.&lt;/p&gt;
+
+&lt;p&gt;Reiss, S., &amp;amp; Sushinsky, L.W. (1975). Overjustifcation, competing responses, and the acquisition of intrinsic interest. Journal of Personality and Social Psychology, 31, 1116-1125&lt;/p&gt;
+
+&lt;p&gt;Eisenberger, R., Pierce, W. P. &amp;amp; Camerson, J. (1999). Effects of rewards on intrinsic motivation – Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999). Psychological Bulletin, 125, 677-691.&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9</summary></entry><entry><title type="html">Review Why Hacker Do What They Do</title><link href="https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do.html" rel="alternate" type="text/html" title="Review Why Hacker Do What They Do" /><published>2021-05-23T00:00:00-05:00</published><updated>2021-05-23T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/23/Review-Why-Hacker-do-what-they-do.html">&lt;p&gt;Lakhani, Karim, and Robert G. Wolf. “Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects.” SSRN Electronic Journal, 2003. https://doi.org/10.2139/ssrn.443040.&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 
@@ -288,7 +344,9 @@ Integration: through self-examination, and value assimilation&lt;/p&gt;
 
 &lt;p&gt;Can the instrumental value behind the extrinsic motivation be intrinsic?&lt;/p&gt;
 
-&lt;p&gt;What happens when extrinsic motivation is applied in inherently interesting activities?&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://fast.tk/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://fast.tk/jupyter/2020/02/20/test</id><content type="html" xml:base="https://fast.tk/jupyter/2020/02/20/test.html">&lt;!--
+&lt;p&gt;What happens when extrinsic motivation is applied in inherently interesting activities?&lt;/p&gt;
+
+&lt;p&gt;If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://fast.tk/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://fast.tk/jupyter/2020/02/20/test</id><content type="html" xml:base="https://fast.tk/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
