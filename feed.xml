@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-25T13:57:38-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Myths of Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Myths of Intrinsic Motivation" /><published>2021-05-24T00:00:00-05:00</published><updated>2021-05-24T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html">&lt;p&gt;Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-25T16:24:41-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Myths of Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Myths of Intrinsic Motivation" /><published>2021-05-24T00:00:00-05:00</published><updated>2021-05-24T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/24/Review-Myths-of-intrinsic-motivation.html">&lt;p&gt;Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9&lt;/p&gt;
 
 &lt;h2 id=&quot;absctract&quot;&gt;Absctract:&lt;/h2&gt;
 
@@ -346,7 +346,62 @@ Integration: through self-examination, and value assimilation&lt;/p&gt;
 
 &lt;p&gt;What happens when extrinsic motivation is applied in inherently interesting activities?&lt;/p&gt;
 
-&lt;p&gt;If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://fast.tk/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://fast.tk/jupyter/2020/02/20/test</id><content type="html" xml:base="https://fast.tk/jupyter/2020/02/20/test.html">&lt;!--
+&lt;p&gt;If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Test Markdown Ppt</title><link href="https://fast.tk/2020/05/25/test-markdown-ppt.html" rel="alternate" type="text/html" title="Test Markdown Ppt" /><published>2020-05-25T00:00:00-05:00</published><updated>2020-05-25T00:00:00-05:00</updated><id>https://fast.tk/2020/05/25/test-markdown-ppt</id><content type="html" xml:base="https://fast.tk/2020/05/25/test-markdown-ppt.html">&lt;h1 id=&quot;user-innovation-and-motivation&quot;&gt;User innovation and motivation&lt;/h1&gt;
+&lt;h2 id=&quot;literature-review&quot;&gt;Literature Review&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;why-do-users-innovate-and-share-innovation-for-free&quot;&gt;Why do users innovate, and share innovation for free?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Utilitarian motivation: customized need, sticky&lt;/li&gt;
+  &lt;li&gt;Intrinsic motivation: Competence, Autonomy, Relatedness, SDT&lt;/li&gt;
+  &lt;li&gt;Extrinsic motivation: Crowding-out, Undermining theory criticisms&lt;/li&gt;
+  &lt;li&gt;Voluntary social movement participation models:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;utility-users-benefit-for-sharing&quot;&gt;Utility: Users benefit for sharing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations.” Research Policy 32, no. 10 (December 2003): 1753–69.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;intrinsic-and-extrinsic-motivation&quot;&gt;Intrinsic and Extrinsic motivation:&lt;/h2&gt;
+
+&lt;p&gt;Self-determination Theory&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Edward L Deci, Richard Koestner, and Richard M Ryan. “A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation,” n.d., 42.&lt;/li&gt;
+  &lt;li&gt;Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;intrinsic-and-extrinsic-motivation-1&quot;&gt;Intrinsic and Extrinsic motivation:&lt;/h2&gt;
+
+&lt;p&gt;Undermining Theory and criticisms&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lakhani, Karim, and Robert G. Wolf. “Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects.” SSRN Electronic Journal, 2003.&lt;/li&gt;
+  &lt;li&gt;Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;extrinsic-motivation&quot;&gt;Extrinsic motivation&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fostering internalization and integration of values (Richard, Deci, 2000)&lt;/li&gt;
+  &lt;li&gt;Possible extrinsic benefit out-weight undermining effect?&lt;/li&gt;
+  &lt;li&gt;OSS maintainer burn-out and lisense choice (faker.js example)&lt;/li&gt;
+  &lt;li&gt;User Entrepreneuship&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User innovation and motivation Literature Review</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://fast.tk/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://fast.tk/jupyter/2020/02/20/test</id><content type="html" xml:base="https://fast.tk/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
