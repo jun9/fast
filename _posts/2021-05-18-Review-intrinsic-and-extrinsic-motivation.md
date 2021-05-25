@@ -2,7 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
-title: Review: Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.
+title: Review - Intrinsic and Extrinsic Motivations - Classic Definitions and New Directions.
 ---
 
 Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.
