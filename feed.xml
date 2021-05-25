@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-24T20:52:14-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Free User2user Assistance</title><link href="https://fast.tk/reviews/2021/05/21/Free-user2user-assistance.html" rel="alternate" type="text/html" title="Free User2user Assistance" /><published>2021-05-21T00:00:00-05:00</published><updated>2021-05-21T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/21/Free-user2user-assistance</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/21/Free-user2user-assistance.html">&lt;h1 id=&quot;review-lakhani-karim-r-how-open-source-software-works-free-user-to-user-assistance-research-policy-2003-21&quot;&gt;Review: Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-24T20:58:17-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review Free User To User Assistance</title><link href="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html" rel="alternate" type="text/html" title="Review Free User To User Assistance" /><published>2021-05-21T00:00:00-05:00</published><updated>2021-05-21T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html">&lt;h1 id=&quot;review-lakhani-karim-r-how-open-source-software-works-free-user-to-user-assistance-research-policy-2003-21&quot;&gt;Review: Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.&lt;/h1&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;Research into free and open source software development projects has so far largely focused on how the major tasks of software development are organized and motivated. But a complete project requires the execution of “mundane but necessary” tasks as well. In this paper, we explore how the mundane but necessary task of ﬁeld support is organized in the case of Apache web server software, and why some project participants are motivated to provide this service gratis to others. We ﬁnd that the Apache ﬁeld support system functions effectively. We also ﬁnd that, when we partition the help system into its component tasks, 98% of the effort expended by information providers in fact returns direct learning beneﬁts to those providers. This ﬁnding considerably reduces the puzzle of why information providers are willing to perform this task “for free.” Implications are discussed.&lt;/p&gt;
@@ -11,8 +11,12 @@
 &lt;h2 id=&quot;key-assumption&quot;&gt;Key assumption:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Participation in the community brings intrinsic private benefits, such as learning, enjoyment and sense of ownership&lt;/li&gt;
-  &lt;li&gt;It typically took very limited amount of time/efforts to provide most of the off-the-shelf solution information&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Participation in the community brings intrinsic private benefits, such as learning, enjoyment and sense of ownership&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It typically took very limited amount of time/efforts to provide most of the off-the-shelf solution information&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;question&quot;&gt;Question:&lt;/h2&gt;
@@ -22,7 +26,7 @@
     &lt;p&gt;Does this organic community support work for all type of OS projects (less to learn), developer systems/tools, consumer products/apps? Can it scale to support greater number of users?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;How about other types of OS community contributions, testing, bug fixes, and new features?&lt;/p&gt;
+    &lt;p&gt;How about other types of OS community contributions, testing, bug fixes, and new features? Tons of free data from GitHub API and popular forum software analytics.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Does the quality of community support depend on the type of support system, in this case Usenet help forum, which have evolved into email list, web forum, chatroom, slack/discord, and specialized helpdesk service etc.?&lt;/p&gt;
