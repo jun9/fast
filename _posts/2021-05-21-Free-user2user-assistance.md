@@ -1,9 +1,6 @@
 ---
-toc: true
 layout: post
-description: A minimal example of literature review using markdown with fastpages.
 categories: [Reviews]
-title: An Example 
 ---
 # Review: Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.
 
@@ -31,4 +28,5 @@ Almost all (98%) the effort expended by community information providers in fact 
 - Does the quality of community support depend on the type of support system, in this case Usenet help forum, which have evolved into email list, web forum, chatroom, slack/discord, and specialized helpdesk service etc.?
 
 - Are self-reported motivation and time cost estimation reliable (given the flow experience)?
+
 - How does monetary bounty, virtual reward or gamification helps/impact these OS supports work, and customization development request?
