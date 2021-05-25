@@ -2,6 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
+title: Review: Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.
 ---
 
 Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.
@@ -12,7 +13,7 @@ Intrinsic and extrinsic types of motivation have been widely studied, and the di
 
 ## Main arguments:
 
-Extrinsic motivation: defined as a construct that pertains whenever an activity is done in order to attain some **separable** outcome. SDT proposes that extrinsic motivation can vary greatly in the degree of autonomy, ie. extrinsic motivation varies from controlling to autonomous/self-determined continuum)
+Extrinsic motivation: defined as a construct that pertains whenever an activity is done in order to attain some **separable** outcome. Self-determination Theory (SDT) proposes that extrinsic motivation can vary greatly in the degree of autonomy, ie. extrinsic motivation varies from controlling to autonomous/self-determined continuum)
 
 External regulation
 Introjection: regulated by contingent self-esteem
@@ -26,15 +27,15 @@ More autonomous extrinsic motivation is associated with greater engagement, bett
 
 
 
-##Note:
+## Note:
 
 "Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. "
 
 ## Question:
 
-Can the instrumental value behind the extrinsic motivation intrinsic?
+Can the instrumental value behind the extrinsic motivation be intrinsic?
 
-Can extrinsic motivation is applied in inherently interesting activities?
+What happens when extrinsic motivation is applied in inherently interesting activities?
 
 
 
