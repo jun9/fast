@@ -13,7 +13,7 @@ OS community organic field support system function effectively as evidenced in A
 
 Almost all (98%) the effort expended by community information providers in fact return direct learning benefits to those providers themselves. The main motives to provide help are expected reciprocity, identification with the community cause, gain reputation or enhance career prospects, etc. One average, information providers involve quite small costs/time to answer posted questions. This explains why information providers are willing to perform this supportive task "for free".
 
-## Key assumption:
+## Key assumptions:
 
 
 - Participation in the community brings intrinsic private benefits, such as learning, enjoyment and sense of ownership
@@ -21,7 +21,7 @@ Almost all (98%) the effort expended by community information providers in fact 
 - It typically took very limited amount of time/efforts to provide most of the off-the-shelf solution information
 
 
-## Question:
+## Questions:
 
 - Does this organic community support work for all type of OS projects (less to learn), developer systems/tools, consumer products/apps? Can it scale to support greater number of users?
 
