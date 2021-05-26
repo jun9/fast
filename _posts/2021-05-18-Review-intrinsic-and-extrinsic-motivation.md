@@ -27,12 +27,11 @@ More autonomous extrinsic motivation is associated with greater engagement, bett
 
 
 
-
-## Note:
+## Notes:
 
 "Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. "
 
-## Question:
+## Questions:
 
 Can the instrumental value behind the extrinsic motivation be intrinsic?
 
