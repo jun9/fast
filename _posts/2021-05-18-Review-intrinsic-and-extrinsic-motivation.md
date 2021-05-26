@@ -35,7 +35,7 @@ Internalization and integration:
 Can this **instrumental value** behind the extrinsic motivation be somewhat intrinsic?
 
 Why "as extrinsic regulation become more internalized and self-determined, they do not transform into intrinsic motivation"?   
-``` because behavior motivated by integrated regulation is done for its presumed instrumental value with respect to some outcome that is separate from the behavior, even though it is volitional and valued by the self.```
+``` "because behavior motivated by integrated regulation is done for its presumed instrumental value with respect to some outcome that is separate from the behavior, even though it is volitional and valued by the self."```
 
 Compare SDT with Reiss's theory of 16 basic desires[^1], and simply [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
 
