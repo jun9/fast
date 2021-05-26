@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T14:55:34-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T15:40:05-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -150,10 +150,15 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;All three major categories of motivations are confirmed to present in OSS participation:&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;enjoyment-based intrinsic motivations&lt;/li&gt;
+      &lt;li&gt;obligation/community-based intrinsic motivations&lt;/li&gt;
+      &lt;li&gt;extrinsic motivations.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;User needs for the software, is the overwhelming reason for contribution and participation. The top single reason to contribute to projects is based on enjoyment-related intrinsic motivation, “Project code is intellectually stimulating to write” (44.9%). Improving programming skills, an extrinsic motivation related to human capital improvement, was a close second, with 41.8% of participants saying it was an important motivator.Self-identification with the hacker community and ethic drive participation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;User needs&lt;/em&gt; for the software, is the overwhelming reason for contribution and participation. The top single reason to contribute to projects is based on enjoyment-related intrinsic motivation, “Project code is &lt;em&gt;intellectually stimulating&lt;/em&gt; to write” (44.9%). &lt;em&gt;Improving programming skills&lt;/em&gt;, an extrinsic motivation related to human capital improvement, was a close second (41.8%). &lt;em&gt;Self-identification&lt;/em&gt; with the hacker community and ethic drive participation.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;A sense of personal creativity is the biggest determinant of effort in F/OSS projects, this sense of creativity is endogenous and heterogeneous to the people within projects.&lt;/li&gt;
@@ -169,7 +174,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;It would be interesting to do meta-analysis with these types of survey studies, track the changes over time, as some organization like Linux Foundation do annual FOSS Contributor Survey.&lt;/p&gt;
+    &lt;p&gt;There should be a lot of research opportunities using OSS community, survey or NLP and SNA based analysis, given the aboudant activity data in OSS community fourm and code repositories. It would be also interesting to do meta-analysis with these types of studies, track the changes over time, as some organization like Linux Foundation do annual FOSS Contributor Survey.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are already significant differences seen between paid contributors and volunteers, better ways to distinguish them and more comparisons should reveal interesting findings.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;The observation that clusters of individuals motivated by extrinsic, intrinsic, or hybrid extrinsic/intrinsic factors probably mean that there are other intrinsic needs behind the extrinsic motivations &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
