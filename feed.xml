@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T12:18:28-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T13:24:42-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -192,18 +192,20 @@
   &lt;p&gt;Empirical studies of innovation have found that end users frequently develop important product and process innovations. Defying conventional wisdom on the negative effects of uncompensated spillovers, innovative users also often openly reveal their innovations to competing users and to manufacturers. Rival users are thus in a position to reproduce the innovation in-house and benefit from using it, and manufacturers are in a position to refine the innovation and sell it to all users, including competitors of the user revealing its innovation. In this paper, we explore the incentives that users might have to freely reveal their proprietary innovations. We then develop a game-theoretic model to explore the effect of these incentives on users’ decisions to reveal or hide their proprietary information. We find that, under realistic parameter constellations, free revealing pays. We conclude by discussing some implications of our findings.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;main-arguments&quot;&gt;Main arguments:&lt;/h2&gt;
+&lt;h2 id=&quot;main-arguments&quot;&gt;Main Arguments:&lt;/h2&gt;
 
-&lt;p&gt;A game theory model shows that under realistic parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).&lt;/p&gt;
+&lt;p&gt;Analysis from a game theory economics model shows that under reasonable parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).&lt;/p&gt;
 
-&lt;p&gt;With relative low competition, high generality of the innovation, manufacturer’s increased capability to improve the innovation and lower the cost promote both the free-revealing and the adoption of the innovation.&lt;/p&gt;
+&lt;p&gt;With relative low competition, high generality of the innovation, manufacturer’s increased capability to improve the innovation and lower the cost promotes both the free-revealing and the adoption of the innovation.&lt;/p&gt;
 
 &lt;p&gt;This model is also applicable to user-to-user transfers in which the receiving user creates an externality enjoyed by the sender.&lt;/p&gt;
 
-&lt;h2 id=&quot;key-assumptions&quot;&gt;Key assumptions:&lt;/h2&gt;
+&lt;h2 id=&quot;key-assumptions&quot;&gt;Key Assumptions:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;none of them has sufficient knowledge or information to produce the innovation on their own&lt;/li&gt;
+  &lt;li&gt;these user firms are identical with respect to all other aspects that bear on their profitability&lt;/li&gt;
+  &lt;li&gt;none of the players has sufficient knowledge or information to produce the innovation on their own&lt;/li&gt;
+  &lt;li&gt;it is not possible to reveal the innovation exclusively to the manufacturer&lt;/li&gt;
   &lt;li&gt;licensing is not feasible, and that there are no side payments between users and between innovator users and manufacturers&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -218,7 +220,9 @@
 
 &lt;h2 id=&quot;questions&quot;&gt;Questions:&lt;/h2&gt;
 
-&lt;p&gt;From policy point of view, it would be interesting to study the specific situations where prisoner’s dilemma force them to reveal.&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations.” Research Policy 32, no. 10 (December 2003): 1753–69. https://doi.org/10.1016/S0048-7333(03)00061-1.</summary></entry><entry><title type="html">Review - How Open Source Software Works - ‘Free’ User-to-User Assistance</title><link href="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html" rel="alternate" type="text/html" title="Review - How Open Source Software Works - ‘Free’ User-to-User Assistance" /><published>2021-05-21T00:00:00-05:00</published><updated>2021-05-21T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html">&lt;p&gt;Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.&lt;/p&gt;
+&lt;p&gt;What happens if change/release the assumptions?
+Adaption to behavioral economics game to be played by human? to study impacts of loss aversion, cog
+From policy point of view, it would be interesting to study the specific situations where prisoner’s dilemma force them to reveal.&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations.” Research Policy 32, no. 10 (December 2003): 1753–69. https://doi.org/10.1016/S0048-7333(03)00061-1.</summary></entry><entry><title type="html">Review - How Open Source Software Works - ‘Free’ User-to-User Assistance</title><link href="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html" rel="alternate" type="text/html" title="Review - How Open Source Software Works - ‘Free’ User-to-User Assistance" /><published>2021-05-21T00:00:00-05:00</published><updated>2021-05-21T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/21/Review-Free-user-to-user-assistance.html">&lt;p&gt;Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -350,9 +354,21 @@ Integration: through self-examination, and value assimilation&lt;/p&gt;
 
 &lt;p&gt;Can the instrumental value behind the extrinsic motivation be intrinsic?&lt;/p&gt;
 
+&lt;p&gt;Compare SDT with Reiss’s theory of 16 basic desires &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and simple Maslow’s Hierarchy of Needs&lt;/p&gt;
+
 &lt;p&gt;What happens when extrinsic motivation is applied in inherently interesting activities?&lt;/p&gt;
 
-&lt;p&gt;If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Markdown Slides</title><link href="https://fast.tk/2020/05/25/markdown-slides.html" rel="alternate" type="text/html" title="Markdown Slides" /><published>2020-05-25T00:00:00-05:00</published><updated>2020-05-25T00:00:00-05:00</updated><id>https://fast.tk/2020/05/25/markdown-slides</id><content type="html" xml:base="https://fast.tk/2020/05/25/markdown-slides.html">&lt;h1 id=&quot;user-innovation-and-motivation&quot;&gt;User innovation and motivation&lt;/h1&gt;
+&lt;p&gt;If extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Reiss, Steven. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” Review of General Psychology 8, no. 3 (September 2004): 179–93. https://doi.org/10.1037/1089-2680.8.3.179. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” Contemporary Educational Psychology 25, no. 1 (January 2000): 54–67. https://doi.org/10.1006/ceps.1999.1020.</summary></entry><entry><title type="html">Markdown Slides</title><link href="https://fast.tk/2020/05/25/markdown-slides.html" rel="alternate" type="text/html" title="Markdown Slides" /><published>2020-05-25T00:00:00-05:00</published><updated>2020-05-25T00:00:00-05:00</updated><id>https://fast.tk/2020/05/25/markdown-slides</id><content type="html" xml:base="https://fast.tk/2020/05/25/markdown-slides.html">&lt;h1 id=&quot;user-innovation-and-motivation&quot;&gt;User innovation and motivation&lt;/h1&gt;
 &lt;h2 id=&quot;literature-review&quot;&gt;Literature Review&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mark.show/https://raw.githubusercontent.com/jun9/fast/master/_posts/2020-05-25-test-markdown-ppt.md&quot;&gt;link to slides&lt;/a&gt;&lt;/li&gt;
