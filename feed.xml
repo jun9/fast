@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T13:46:50-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-05-26T14:13:10-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Free Revealing and the Private-Collective Model for Innovation Incentives</title><link href="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html" rel="alternate" type="text/html" title="Review - Free Revealing and the Private-Collective Model for Innovation Incentives" /><published>2021-05-25T00:00:00-05:00</published><updated>2021-05-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private--collective-model-for-innovation-incentives</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html">&lt;p&gt;Hippel, Eric von, and Georg von Krogh. “Free Revealing and the Private-Collective Model for Innovation Incentives.” R and D Management 36, no. 3 (June 2006): 295–306. https://doi.org/10.1111/j.1467-9310.2006.00435.x&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -332,31 +332,33 @@ From policy point of view, it would be interesting to study the specific situati
   &lt;p&gt;Intrinsic and extrinsic types of motivation have been widely studied, and the distinction between them has shed important light on both developmental and educational practices. In this review we revisit the classic definitions of intrinsic and extrinsic motivation in light of contemporary research and theory. Intrinsic motivation remains an important construct, reflecting the natural human propensity to learn and assimilate. However, extrinsic motivation is argued to vary considerably in its relative autonomy and thus can either reflect external control or true self-regulation. The relations of both classes of motives to basic human needs for autonomy, competence and relatedness are discussed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;main-arguments&quot;&gt;Main arguments:&lt;/h2&gt;
+&lt;h2 id=&quot;main-arguments&quot;&gt;Main Arguments:&lt;/h2&gt;
 
 &lt;p&gt;Extrinsic motivation: defined as a construct that pertains whenever an activity is done in order to attain some &lt;strong&gt;separable&lt;/strong&gt; outcome. Self-determination Theory (SDT) proposes that extrinsic motivation can vary greatly in the degree of autonomy, ie. extrinsic motivation varies from controlling to autonomous/self-determined continuum)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../../../images/human.motivation.png&quot; alt=&quot;Fig1. Taxonomy of human motivation&quot; /&gt;&lt;/p&gt;
 
-&lt;dl&gt;
-  &lt;dt&gt;External regulation&lt;/dt&gt;
-  &lt;dd&gt;Introjection: regulated by contingent self-esteem&lt;/dd&gt;
-  &lt;dd&gt;Identification: ego involvement&lt;/dd&gt;
-  &lt;dd&gt;Integration: through self-examination, and value assimilation&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;p&gt;External regulation&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introjection: regulated by contingent self-esteem&lt;/li&gt;
+  &lt;li&gt;Identification: ego involvement&lt;/li&gt;
+  &lt;li&gt;Integration: through self-examination, and value assimilation&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;More autonomous extrinsic motivation is associated with greater engagement, better performance, and greater psychological well-being.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Relatedness&lt;/strong&gt; (facilitate identification?), &lt;strong&gt;competence&lt;/strong&gt; facilitate more internalization, and &lt;strong&gt;autonomy&lt;/strong&gt; facilitate integration of behavioral regulation (self-determined), however, feeling of competence alone will not enhance intrinsic motivation unless accompanied by a sense of autonomy. However, as extrinsic regulation become more internalized and self-determined, they do not transform into intrinsic motivation.&lt;/p&gt;
+&lt;p&gt;Internalization and integration: &lt;br /&gt;
+&lt;strong&gt;Relatedness&lt;/strong&gt; (facilitate identification?), &lt;strong&gt;competence&lt;/strong&gt; facilitate more internalization, and &lt;strong&gt;autonomy&lt;/strong&gt; facilitate integration of behavioral regulation (self-determined), however, feeling of competence alone will not enhance intrinsic motivation unless accompanied by a sense of autonomy. However, as extrinsic regulation become more internalized and self-determined, they do not transform into intrinsic motivation.&lt;/p&gt;
 
 &lt;h2 id=&quot;questions&quot;&gt;Questions:&lt;/h2&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. &quot;&lt;/code&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. &quot;&lt;/code&gt; &lt;br /&gt;
 Can this &lt;strong&gt;instrumental value&lt;/strong&gt; behind the extrinsic motivation be somewhat intrinsic?&lt;/p&gt;
 
-&lt;p&gt;What happens when extrinsic motivation is applied in inherently interesting activities?&lt;/p&gt;
+&lt;p&gt;Why “as extrinsic regulation become more internalized and self-determined, they do not transform into intrinsic motivation”?&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;because behavior motivated by integrated regulation is done for its presumed instrumental value with respect to some outcome that is separate from the behavior, even though it is volitional and valued by the self.&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Compare SDT with Reiss’s theory of 16 basic desires &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and simply &lt;a href=&quot;https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs&quot;&gt;Maslow’s Hierarchy of Needs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Compare SDT with Reiss’s theory of 16 basic desires&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and simply &lt;a href=&quot;https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs&quot;&gt;Maslow’s Hierarchy of Needs&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?&lt;/p&gt;
 
