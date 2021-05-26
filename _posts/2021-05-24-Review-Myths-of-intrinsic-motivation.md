@@ -8,7 +8,7 @@ Reiss, Steven. Myths of Intrinsic Motivation, 2013. ISBN: 978-0-9891701-0-9
 
 ## Absctract:
 
-One scientist’s answer to Daniel Pink’s book, Drive, which claims that extrinsic incentives -- money, bonuses, praise, and recognition -- have the paradoxical effect of lessening intrinsic motivation. Reiss cites multiple flaws with the underlying science, discusses studies and scholarly literature reviews not mentioned in Pink’s book, and cites respected researchers who do not believe that extrinsic incentives undermine intrinsic motivation.
+> One scientist’s answer to Daniel Pink’s book, Drive, which claims that extrinsic incentives -- money, bonuses, praise, and recognition -- have the paradoxical effect of lessening intrinsic motivation. Reiss cites multiple flaws with the underlying science, discusses studies and scholarly literature reviews not mentioned in Pink’s book, and cites respected researchers who do not believe that extrinsic incentives undermine intrinsic motivation.
 
 ## Main arguments:
 

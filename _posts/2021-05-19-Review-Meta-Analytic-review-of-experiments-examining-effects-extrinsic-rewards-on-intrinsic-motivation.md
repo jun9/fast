@@ -8,14 +8,7 @@ Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of exper
 
 ## Abstract:
 
-A meta-analysis of 128 studies examined the effects of extrinsic rewards on intrinsic motivation. As
-predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did
-all rewards, all tangible rewards, and all expected rewards. Engagement-contingent and completioncontingent rewards also significantly undermined self-reported interest (d = -0.15, and —0.17), as did
-all tangible rewards and all expected rewards. Positive feedback enhanced both free-choice behavior
-(d = 0.33) and self-reported interest (d = 0.31). Tangible rewards tended to be more detrimental for
-children than college students, and verbal rewards tended to be less enhancing for children than college
-students. The authors review 4 previous meta-analyses of this literature and detail how this study's
-methods, analyses, and results differed from the previous ones.
+>  A meta-analysis of 128 studies examined the effects of extrinsic rewards on intrinsic motivation. As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards. Engagement-contingent and completioncontingent rewards also significantly undermined self-reported interest (d = -0.15, and —0.17), as did all tangible rewards and all expected rewards. Positive feedback enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31). Tangible rewards tended to be more detrimental for children than college students, and verbal rewards tended to be less enhancing for children than college students. The authors review 4 previous meta-analyses of this literature and detail how this study's methods, analyses, and results differed from the previous ones.
 
 ## Main arguments:
 

@@ -14,7 +14,7 @@ Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Volunta
 
 ## Main arguments:
 
-A game theory model to show that under realistic parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).
+A game theory model shows that under realistic parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).
 
 
 With relative low competition, high generality of the innovation, manufacturer's increased capability to improve the innovation and lower the cost promote both the free-revealing and the adoption of the innovation.

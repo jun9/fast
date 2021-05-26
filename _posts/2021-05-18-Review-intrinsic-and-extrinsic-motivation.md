@@ -9,7 +9,7 @@ Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Cl
 
 ## Abstract:
 
-Intrinsic and extrinsic types of motivation have been widely studied, and the distinction between them has shed important light on both developmental and educational practices. In this review we revisit the classic definitions of intrinsic and extrinsic motivation in light of contemporary research and theory. Intrinsic motivation remains an important construct, reflecting the natural human propensity to learn and assimilate. However, extrinsic motivation is argued to vary considerably in its relative autonomy and thus can either reflect external control or true self-regulation. The relations of both classes of motives to basic human needs for autonomy, competence and relatedness are discussed.
+> Intrinsic and extrinsic types of motivation have been widely studied, and the distinction between them has shed important light on both developmental and educational practices. In this review we revisit the classic definitions of intrinsic and extrinsic motivation in light of contemporary research and theory. Intrinsic motivation remains an important construct, reflecting the natural human propensity to learn and assimilate. However, extrinsic motivation is argued to vary considerably in its relative autonomy and thus can either reflect external control or true self-regulation. The relations of both classes of motives to basic human needs for autonomy, competence and relatedness are discussed.
 
 ## Main arguments:
 
