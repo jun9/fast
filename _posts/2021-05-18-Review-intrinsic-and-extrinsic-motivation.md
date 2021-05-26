@@ -28,17 +28,15 @@ More autonomous extrinsic motivation is associated with greater engagement, bett
 
 
 
-## Notes:
-
-"Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. "
-
 ## Questions:
 
-Can the instrumental value behind the extrinsic motivation be intrinsic?
-
-Compare SDT with Reiss's theory of 16 basic desires [^1], and [simple Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
+```"Because extrinsically motivated behaviors are not inherently interesting and thus must initially be externally prompted, the primary reason people are likely to be willing to do the behaviors is that they are valued by (their instrumental value) significant others to whom they feel (or would like to feel) connected, whether that be a family, a peer group, or a society. " ```
+Can this **instrumental value** behind the extrinsic motivation be somewhat intrinsic?
 
 What happens when extrinsic motivation is applied in inherently interesting activities?
+
+Compare SDT with Reiss's theory of 16 basic desires [^1], and simply [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
+
 
 If extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?
 
