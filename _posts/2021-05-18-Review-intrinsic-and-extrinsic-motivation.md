@@ -15,6 +15,7 @@ Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Cl
 
 Extrinsic motivation: defined as a construct that pertains whenever an activity is done in order to attain some **separable** outcome. Self-determination Theory (SDT) proposes that extrinsic motivation can vary greatly in the degree of autonomy, ie. extrinsic motivation varies from controlling to autonomous/self-determined continuum)
 
+![Fig1. Taxonomy of human motivation](../images/human.motivation.png)
 External regulation
 Introjection: regulated by contingent self-esteem
 Identification: ego involvement

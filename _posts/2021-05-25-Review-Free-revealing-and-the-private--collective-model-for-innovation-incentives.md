@@ -32,7 +32,7 @@ Some practical cases could be made to explain the free revealing for innovation:
 
 Given the observation, a private-collective model of innovation incentive is proposed to account for the limit in Private Investment and Collective action model dichotomy.
 
-![Table #2](..\images\free.revealing.table2.png)
+![Table #2](../../../../images/free.revealing.table2.png)
 
 ## Key assumption: 
 Innovators gain more profits than free riders from freely-revealed innovations because some sources of profit remain private.

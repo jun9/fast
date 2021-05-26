@@ -9,10 +9,10 @@
 
 ## Why do users innovate, and share innovation for free?
 
- - Utilitarian motivation: customized need, sticky
+ - Utilitarian motivation: customized need, sticky info
  - Intrinsic motivation: Competence, Autonomy, Relatedness, SDT
- - Extrinsic motivation: Crowding-out and Undermining theory criticisms
  - Voluntary social movement participation models:
+ - Extrinsic motivation: Crowding-out and Undermining theory criticisms
  
 ---
 
