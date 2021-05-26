@@ -12,20 +12,22 @@ Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. “Profiting from Volunta
 > Empirical studies of innovation have found that end users frequently develop important product and process innovations. Defying conventional wisdom on the negative effects of uncompensated spillovers, innovative users also often openly reveal their innovations to competing users and to manufacturers. Rival users are thus in a position to reproduce the innovation in-house and benefit from using it, and manufacturers are in a position to refine the innovation and sell it to all users, including competitors of the user revealing its innovation. In this paper, we explore the incentives that users might have to freely reveal their proprietary innovations. We then develop a game-theoretic model to explore the effect of these incentives on users’ decisions to reveal or hide their proprietary information. We find that, under realistic parameter constellations, free revealing pays. We conclude by discussing some implications of our findings. 
 
 
-## Main arguments:
+## Main Arguments:
 
-A game theory model shows that under realistic parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).
+Analysis from a game theory economics model shows that under reasonable parameter settings, free revealing of innovation via manufacturers can be profitable for the innovators (with complementary capabilities/assets).
 
 
-With relative low competition, high generality of the innovation, manufacturer's increased capability to improve the innovation and lower the cost promote both the free-revealing and the adoption of the innovation.
+With relative low competition, high generality of the innovation, manufacturer's increased capability to improve the innovation and lower the cost promotes both the free-revealing and the adoption of the innovation.
 
 
 This model is also applicable to user-to-user transfers in which the receiving user creates an externality enjoyed by the sender.
 
 
-## Key assumptions:
+## Key Assumptions:
 
-- none of them has sufficient knowledge or information to produce the innovation on their own
+- these user firms are identical with respect to all other aspects that bear on their profitability
+- none of the players has sufficient knowledge or information to produce the innovation on their own
+- it is not possible to reveal the innovation exclusively to the manufacturer
 - licensing is not feasible, and that there are no side payments between users and between innovator users and manufacturers
 
 Decision variables related to free revealing:
@@ -38,4 +40,6 @@ Decision variables related to free revealing:
 
 ## Questions:
 
+What happens if change/release the assumptions?
+Adaption to behavioral economics game to be played by human? to study impacts of loss aversion, cog
 From policy point of view, it would be interesting to study the specific situations where prisoner's dilemma force them to reveal.

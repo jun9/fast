@@ -36,10 +36,15 @@ More autonomous extrinsic motivation is associated with greater engagement, bett
 
 Can the instrumental value behind the extrinsic motivation be intrinsic?
 
+Compare SDT with Reiss's theory of 16 basic desires [^1], and simple Maslow's Hierarchy of Needs
+
 What happens when extrinsic motivation is applied in inherently interesting activities?
 
-If Extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?
+If extrinsic reward (money) undermines intrinsic reward, why Github Sponsors, open source Patreon, name your own price content download works?
 
+## References:
+
+[^1]: Reiss, Steven. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” Review of General Psychology 8, no. 3 (September 2004): 179–93. https://doi.org/10.1037/1089-2680.8.3.179.
 
 
 
