@@ -1,8 +1,7 @@
 
 # User innovation and motivation
 ## Literature Review
-![qrcode](../../../../images/qrcode_mark.show.png)
-- [link to slides](https://mark.show/https://raw.githubusercontent.com/jun9/fast/master/_posts/2020-05-25-test-markdown-ppt.md)
+- [link to slides](https://mark.show/https://raw.githubusercontent.com/jun9/fast/master/_posts/2020-05-25-markdown-slides.md)
 - [link to review blogs](http://jun9.github.io/fast/categories/#Reviews)
 - [link to literature collections](https://www.zotero.org/groups/4157993/user-innovation/collections/4XA5I8RD)
 
