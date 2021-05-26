@@ -2,6 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
+title: Review - A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
 ---
 Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627–668. https:// https://doi.org/10.1037/0033-2909.125.6.627
 

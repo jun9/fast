@@ -2,6 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
+title: Review - Why Hackers Do What They Do - Understanding Motivation and Effort in Free/Open Source Software Projects
 ---
 Lakhani, Karim, and Robert G. Wolf. “Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects.” SSRN Electronic Journal, 2003. https://doi.org/10.2139/ssrn.443040.
 

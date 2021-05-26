@@ -2,6 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
+title: Review - How Open Source Software Works - ‘Free’ User-to-User Assistance
 ---
 Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.
 
