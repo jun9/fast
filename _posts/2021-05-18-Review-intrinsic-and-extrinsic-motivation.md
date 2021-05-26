@@ -16,10 +16,11 @@ Ryan, Richard M., and Edward L. Deci. “Intrinsic and Extrinsic Motivations: Cl
 Extrinsic motivation: defined as a construct that pertains whenever an activity is done in order to attain some **separable** outcome. Self-determination Theory (SDT) proposes that extrinsic motivation can vary greatly in the degree of autonomy, ie. extrinsic motivation varies from controlling to autonomous/self-determined continuum)
 
 ![Fig1. Taxonomy of human motivation](../../../../images/human.motivation.png)
+
 External regulation
-Introjection: regulated by contingent self-esteem
-Identification: ego involvement
-Integration: through self-examination, and value assimilation
+: Introjection: regulated by contingent self-esteem
+: Identification: ego involvement
+: Integration: through self-examination, and value assimilation
 
 More autonomous extrinsic motivation is associated with greater engagement, better performance, and greater psychological well-being.
 
@@ -35,7 +36,7 @@ More autonomous extrinsic motivation is associated with greater engagement, bett
 
 Can the instrumental value behind the extrinsic motivation be intrinsic?
 
-Compare SDT with Reiss's theory of 16 basic desires [^1], and simple Maslow's Hierarchy of Needs
+Compare SDT with Reiss's theory of 16 basic desires [^1], and [simple Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs)
 
 What happens when extrinsic motivation is applied in inherently interesting activities?
 
