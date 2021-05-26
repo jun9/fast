@@ -19,10 +19,11 @@ Lakhani, Karim, and Robert G. Wolf. “Why Hackers Do What They Do: Understandin
 
 
 - All three major categories of motivations are confirmed to present in OSS participation:
+ 1. enjoyment-based intrinsic motivations
+ 2. obligation/community-based intrinsic motivations
+ 3. extrinsic motivations.
 
-
-User needs for the software, is the overwhelming reason for contribution and participation. The top single reason to contribute to projects is based on enjoyment-related intrinsic motivation, “Project code is intellectually stimulating to write” (44.9%). Improving programming skills, an extrinsic motivation related to human capital improvement, was a close second, with 41.8% of participants saying it was an important motivator.Self-identification with the hacker community and ethic drive participation.
-
+*User needs* for the software, is the overwhelming reason for contribution and participation. The top single reason to contribute to projects is based on enjoyment-related intrinsic motivation, “Project code is *intellectually stimulating* to write” (44.9%). *Improving programming skills*, an extrinsic motivation related to human capital improvement, was a close second (41.8%). *Self-identification* with the hacker community and ethic drive participation.
 
 - A sense of personal creativity is the biggest determinant of effort in F/OSS projects, this sense of creativity is endogenous and heterogeneous to the people within projects.
 
@@ -33,9 +34,9 @@ While there are significant differences in motivations between paid contributors
 
 ## Questions:
 
+- There should be a lot of research opportunities using OSS community, survey or NLP and SNA based analysis, given the aboudant activity data in OSS community fourm and code repositories. It would be also interesting to do meta-analysis with these types of studies, track the changes over time, as some organization like Linux Foundation do annual FOSS Contributor Survey.
 
-- It would be interesting to do meta-analysis with these types of survey studies, track the changes over time, as some organization like Linux Foundation do annual FOSS Contributor Survey.
-
+- There are already significant differences seen between paid contributors and volunteers, better ways to distinguish them and more comparisons should reveal interesting findings.
 
 - The observation that clusters of individuals motivated by extrinsic, intrinsic, or hybrid extrinsic/intrinsic factors probably mean that there are other intrinsic needs behind the extrinsic motivations [^1]
 
