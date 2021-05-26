@@ -2,14 +2,14 @@
 # User innovation and motivation
 ## Literature Review
 - [link to slides](https://mark.show/https://raw.githubusercontent.com/jun9/fast/master/_posts/2020-05-25-test-markdown-ppt.md)
-- [link to review blog](http://jun9.github.io/fast/categories/#Reviews)
-- [link to collections](https://www.zotero.org/groups/4157993/user-innovation/collections/4XA5I8RD)
+- [link to review blogs](http://jun9.github.io/fast/categories/#Reviews)
+- [link to literature collections](https://www.zotero.org/groups/4157993/user-innovation/collections/4XA5I8RD)
 
 ---
 
 ## Why do users innovate, and share innovation for free?
 
- - Utilitarian motivation: customized need, sticky info
+ - Utilitarian motivation: user's customized need, sticky info
  - Intrinsic motivation: Competence, Autonomy, Relatedness, SDT
  - Voluntary social movement participation models:
  - Extrinsic motivation: Crowding-out and Undermining theory criticisms
@@ -20,7 +20,7 @@
 
 - Hippel, Eric von, and Georg von Krogh. [“Free Revealing and the Private-Collective Model for Innovation Incentives.”](https://fast.tk/reviews/2021/05/25/Review-Free-revealing-and-the-private-collective-model-for-innovation-incentives.html) R and D Management 36, no. 3 (June 2006): 295–306. 
 
-- Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. [“Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations”]（https://fast.tk/reviews/2021/05/22/Review-Profiting-from-voluntary-information-spillovers.html）Research Policy 32, no. 10 (December 2003): 1753–69.
+- Harhoff, Dietmar, Joachim Henkel, and Eric von Hippel. [“Profiting from Voluntary Information Spillovers: How Users Benefit by Freely Revealing Their Innovations”](https://fast.tk/reviews/2021/05/22/Review-Profiting-from-voluntary-information-spillovers.html) Research Policy 32, no. 10 (December 2003): 1753–69.
 
 ---
 
