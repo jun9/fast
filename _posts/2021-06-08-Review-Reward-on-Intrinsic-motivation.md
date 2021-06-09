@@ -11,14 +11,14 @@ Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on I
 
 ## Main Arguments:
 Meta-analysis [^1] (Cameron and Pierce, 1994) in contrast to Deci (1999), argues that:
-	1. Reward can decrease, no effect or increase intrinsic motivation depending on it's presented
-	2. General Interest Theory predicts that reward increases perceived self-determination
-	3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements
-	4. Reward procedures conveying a task's triviality decrease intrinsic motivation, whereas conveying personal or social significance increase intrinsic motivation
+1. Reward can decrease, no effect or increase intrinsic motivation depending on it's presented
+2. General Interest Theory predicts that reward increases perceived self-determination
+3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements
+4. Reward procedures conveying a task's triviality decrease intrinsic motivation, whereas conveying personal or social significance increase intrinsic motivation
 
 General Interest theory is proposed which holds that task content and context, including rewards
-	1. decrease intrinsic motivation when they convey task's irrelevance or inconsistency with the satisfaction of needs, wants or desires
-	2. increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
+1. decrease intrinsic motivation when they convey task's irrelevance or inconsistency with the satisfaction of needs, wants or desires
+2. increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
 Reward's symbolic value influences intrinsic motivation.
 
 [^1]: Cameron, Judy, and W. David Pierce. “Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis.” Review of Educational Research 64, no. 3 (September 1994): 363–423. https://doi.org/10.3102/00346543064003363.
