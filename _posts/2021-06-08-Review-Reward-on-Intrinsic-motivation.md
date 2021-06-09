@@ -10,7 +10,7 @@ Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on I
 > Meta-analyses indicated that rewards increase perceived self-determination and that rewards' effects on intrinsic motivation depend on the performance requirement. Reward for meeting vague performance standards reduced the subsequent choice to carry out the task and did not affect self-reported interest. Reward for meeting absolute performance standards did not affect free choice but increased self-reported interest. Reward for exceeding others increased both free choice and self-reported interest. Applied studies commonly found positive or null relationships between reward and intrinsic motivation. The findings suggest that reward procedures requiring ill-defined or minimal performance convey task triviality, thereby decreasing intrinsic motivation. Reward procedures requiring specific high task performance convey a task's personal or social significance, increasing intrinsic motivation.
 
 ## Main Arguments:
-Meta-analysis [^1] (Cameron and Pierce, 1994) in contrast to Deci (1999), argues that:
+In contrast to Deci's (Deci et al., 1999) meta-analysis which found extrinsic reward's undermining effects on intrinsic motivation, this meta-analysis [^1] (Cameron and Pierce, 1994) argues that:
 1. Reward can decrease, no effect or increase intrinsic motivation depending on it's presented
 2. General Interest Theory predicts that reward increases perceived self-determination
 3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements
@@ -21,4 +21,7 @@ General Interest theory is proposed which holds that task content and context, i
 2. increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
 Reward's symbolic value influences intrinsic motivation.
 
-[^1]: Cameron, Judy, and W. David Pierce. “Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis.” Review of Educational Research 64, no. 3 (September 1994): 363–423. https://doi.org/10.3102/00346543064003363.
+[^1]: Edward L Deci, Richard Koestner, and Richard M Ryan. “A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation,” n.d., 42.
+
+[^2]: Cameron, Judy, and W. David Pierce. “Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis.” Review of Educational Research 64, no. 3 (September 1994): 363–423. https://doi.org/10.3102/00346543064003363.
+
