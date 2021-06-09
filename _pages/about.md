@@ -4,16 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This blog is related to *Data*. 
+This blog is related to *Data*, *User*, *Innovation*, *Research*.
 
-Under Construction Now...
 
-My name: [Yong](https://www.instagram.com/i157/)
 
 Link to my [old blog](http://k151.weebly.com/)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[Yong](https://www.instagram.com/i157/)
