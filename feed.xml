@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-06-08T23:41:15-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Effects of Reward on Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Effects of Reward on Intrinsic Motivation" /><published>2021-06-08T00:00:00-05:00</published><updated>2021-06-08T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html">&lt;p&gt;Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on Intrinsic Motivation—Negative, Neutral, and Positive: Comment on Deci, Koestner, and Ryan (1999),” n.d., 15. https://doi.org/10.1037/0033-2909.125.6.677.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-06-08T23:43:20-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Effects of Reward on Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Effects of Reward on Intrinsic Motivation" /><published>2021-06-08T00:00:00-05:00</published><updated>2021-06-08T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html">&lt;p&gt;Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on Intrinsic Motivation—Negative, Neutral, and Positive: Comment on Deci, Koestner, and Ryan (1999),” n.d., 15. https://doi.org/10.1037/0033-2909.125.6.677.&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -6,16 +6,20 @@
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;main-arguments&quot;&gt;Main Arguments:&lt;/h2&gt;
-&lt;p&gt;Meta-analysis &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (Cameron and Pierce, 1994) in contrast to Deci (1999), argues that:
-	1. Reward can decrease, no effect or increase intrinsic motivation depending on it’s presented
-	2. General Interest Theory predicts that reward increases perceived self-determination
-	3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements
-	4. Reward procedures conveying a task’s triviality decrease intrinsic motivation, whereas conveying personal or social significance increase intrinsic motivation&lt;/p&gt;
+&lt;p&gt;Meta-analysis &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; (Cameron and Pierce, 1994) in contrast to Deci (1999), argues that:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Reward can decrease, no effect or increase intrinsic motivation depending on it’s presented&lt;/li&gt;
+  &lt;li&gt;General Interest Theory predicts that reward increases perceived self-determination&lt;/li&gt;
+  &lt;li&gt;Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements&lt;/li&gt;
+  &lt;li&gt;Reward procedures conveying a task’s triviality decrease intrinsic motivation, whereas conveying personal or social significance increase intrinsic motivation&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;General Interest theory is proposed which holds that task content and context, including rewards
-	1. decrease intrinsic motivation when they convey task’s irrelevance or inconsistency with the satisfaction of needs, wants or desires
-	2. increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
-Reward’s symbolic value influences intrinsic motivation.&lt;/p&gt;
+&lt;p&gt;General Interest theory is proposed which holds that task content and context, including rewards&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;decrease intrinsic motivation when they convey task’s irrelevance or inconsistency with the satisfaction of needs, wants or desires&lt;/li&gt;
+  &lt;li&gt;increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
+Reward’s symbolic value influences intrinsic motivation.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
