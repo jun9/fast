@@ -4,7 +4,7 @@ toc: false
 
 layout: post
 
-categories: \[Reviews\]
+categories: [Reviews]
 
 title: Review - Reinforcement, Reward, and Intrinsic Motivation - A Meta-Analysis
 
