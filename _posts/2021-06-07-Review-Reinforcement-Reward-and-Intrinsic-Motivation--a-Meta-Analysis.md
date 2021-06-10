@@ -1,13 +1,8 @@
 ---
-
 toc: false
-
 layout: post
-
-categories: [Reviews]
-
+categories: [Reviews]
 title: Review - Reinforcement, Reward, and Intrinsic Motivation - A Meta-Analysis
-
 ---
 Cameron, Judy, and W. David Pierce. “Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis.” _Review of Educational Research_ 64, no. 3 (September 1994): 363–423. [https://doi.org/10.3102/00346543064003363](https://doi.org/10.3102/00346543064003363).
 
