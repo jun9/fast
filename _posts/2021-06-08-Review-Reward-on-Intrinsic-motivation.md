@@ -13,12 +13,12 @@ Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on I
 In contrast to Deci's (Deci et al., 1999) [^1] meta-analysis which found extrinsic reward's undermining effects on intrinsic motivation, this meta-analysis [^2] (Cameron and Pierce, 1994) argues that:
 1. Reward can decrease, no effect or increase intrinsic motivation depending on it's presented
 2. General Interest Theory predicts that reward increases perceived self-determination
-3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more postive reward effects than do vague performance requirements
+3. Reward could have positive or null effects on intrinsic motivation (specific performance requirements have more positive reward effects than do vague performance requirements
 4. Reward procedures conveying a task's triviality decrease intrinsic motivation, whereas conveying personal or social significance increase intrinsic motivation
 
 General Interest theory is proposed which holds that task content and context, including rewards
 1. decrease intrinsic motivation when they convey task's irrelevance or inconsistency with the satisfaction of needs, wants or desires
-2. increase intrinsic motivation when they indicate taks performance helps satisfy needs, wants or desires.
+2. increase intrinsic motivation when they indicate task performance helps satisfy needs, wants or desires.
 Reward's symbolic value influences intrinsic motivation.
 
 [^1]: Edward L Deci, Richard Koestner, and Richard M Ryan. “A Meta-Analytic Review of Experiments Examining the Effects of Extrinsic Rewards on Intrinsic Motivation,” n.d., 42.
