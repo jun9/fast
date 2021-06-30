@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-06-10T01:16:12-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Effects of Reward on Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Effects of Reward on Intrinsic Motivation" /><published>2021-06-08T00:00:00-05:00</published><updated>2021-06-08T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html">&lt;p&gt;Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on Intrinsic Motivation—Negative, Neutral, and Positive: Comment on Deci, Koestner, and Ryan (1999),” n.d., 15. https://doi.org/10.1037/0033-2909.125.6.677.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://fast.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fast.tk/" rel="alternate" type="text/html" /><updated>2021-06-29T19:20:51-05:00</updated><id>https://fast.tk/feed.xml</id><title type="html">fast.tk blog</title><subtitle>Yet another github hosted static blog with support for Jupyter Notebooks.</subtitle><entry><title type="html">Review - Piller et al. - 2010 - A Typology of Customer Co-Creation in the Innovation</title><link href="https://fast.tk/reviews/2021/06/25/Review-A-Typology-of-Customer-Co-Creation-in-the-Innovation.html" rel="alternate" type="text/html" title="Review - Piller et al. - 2010 - A Typology of Customer Co-Creation in the Innovation" /><published>2021-06-25T00:00:00-05:00</published><updated>2021-06-25T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/06/25/Review-A-Typology-of-Customer-Co-Creation-in-the-Innovation</id><content type="html" xml:base="https://fast.tk/reviews/2021/06/25/Review-A-Typology-of-Customer-Co-Creation-in-the-Innovation.html">&lt;p&gt;Piller, Frank T., Christoph Ihl, Alexander Vossen. A Typology of Customer Co-Creation in the Innovation Process. SSRN Electronic Journal, 2010. https://doi.org/10.2139/ssrn.1732127.&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Customer co‐creation denotes an active, creative and social collaboration process between producers (retailers) and customers (users), facilitated by the company. Customers become active participants in an open innovation process of a firm and take part in the development of new products or services. In this paper, we provide a review of the evolution of customer co‐creation and related forms of customer participation and suggest a typology of recent methods of co‐creation (open innovation with customers).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;main-points&quot;&gt;Main Points&lt;/h2&gt;
+&lt;p&gt;The idea of open innovation was developed based on the access and transfer of two types of information:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;User need info: (Direct access when user innovate, UX, sales, CS team can play proxy role to help gain indirect access…)
+(&lt;em&gt;Implicit user need&lt;/em&gt;: faster, cheaper, smaller, … universal preferrences produce incremental innnovations)&lt;/li&gt;
+  &lt;li&gt;Tech solution info: (Exploration of new ways of doing things)
+&lt;em&gt;New tech&lt;/em&gt;
+&lt;em&gt;Repurposed tech&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;innovation process&lt;/em&gt; can be seen as an interactive relationships among producers, users and many other different institutions&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;open innovation&lt;/em&gt; is defined as the formal discipline and practice of leveraging the discoveries of unobvious others as input for the innovation process through formal and informal relationships&lt;/p&gt;
+
+&lt;p&gt;A chronological review of important conceptual development of customer co‐creation:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Market orientation: from craftsmanship to mass comsumption&lt;/li&gt;
+  &lt;li&gt;Customer Orientation: customer value creation&lt;/li&gt;
+  &lt;li&gt;Customer Centricity: mass customization and personalization&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Three Modes of Interacting with Customers in the Innovation Process:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;“Listen into” the customer domain,&lt;/li&gt;
+  &lt;li&gt;“ask” customers,&lt;/li&gt;
+  &lt;li&gt;“build” with customers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Lead users are characterized as users who (1) face needs that will become general in a marketplace much earlier before the bulk of that marketplace encounters them; and (2) are positioned to benefit significantly by obtaining a solution for those needs. Customer co‐creation, however, is built on a firm‐driven strategy that facilitates the interaction with its customers and users. Instead of just screening the user base to detect any existing prototypes created by lead users, here the firm provides instruments and tools to its users to actively co‐create a solution together.  &lt;/p&gt;
+
+&lt;p&gt;A Typology Classification for Customer Co‐Creation is proposed based on three characteristics that form the conceptual dimensions:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The stage in the innovation process: the time when customer input from co‐creation activities enters the new product development process;&lt;/li&gt;
+  &lt;li&gt;The degree of collaboration: the structure of the underlying relationships in an open innovation setting;&lt;/li&gt;
+  &lt;li&gt;The degrees of freedom: the nature of the task that has been assigned to customers&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;customer-innovation-fig-1.png&quot; alt=&quot;Figure 1: Typology of customer innovation at the front end of the innovation process&quot; /&gt;
+&lt;img src=&quot;customer-innovation-fig-1.png&quot; alt=&quot;Figure 2: Typology of customer innovation at the back end of the innovation process&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Piller, Frank T., Christoph Ihl, Alexander Vossen. A Typology of Customer Co-Creation in the Innovation Process. SSRN Electronic Journal, 2010. https://doi.org/10.2139/ssrn.1732127.</summary></entry><entry><title type="html">Review - Effects of Reward on Intrinsic Motivation</title><link href="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - Effects of Reward on Intrinsic Motivation" /><published>2021-06-08T00:00:00-05:00</published><updated>2021-06-08T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/06/08/Review-Reward-on-Intrinsic-motivation.html">&lt;p&gt;Eisenberger, Robert, W David Pierce, and Judy Cameron. “Effects of Reward on Intrinsic Motivation—Negative, Neutral, and Positive: Comment on Deci, Koestner, and Ryan (1999),” n.d., 15. https://doi.org/10.1037/0033-2909.125.6.677.&lt;/p&gt;
 
 &lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -404,65 +449,4 @@ From policy point of view, it would be interesting to study the specific situati
   &lt;li&gt;
     &lt;p&gt;How does monetary bounty, virtual reward or gamification helps/impact these OS supports work, and customization development request?&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.</summary></entry><entry><title type="html">Review - A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation</title><link href="https://fast.tk/reviews/2021/05/19/Review-Meta-Analytic-review-of-experiments-examining-effects-extrinsic-rewards-on-intrinsic-motivation.html" rel="alternate" type="text/html" title="Review - A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation" /><published>2021-05-19T00:00:00-05:00</published><updated>2021-05-19T00:00:00-05:00</updated><id>https://fast.tk/reviews/2021/05/19/Review-Meta-Analytic-review-of-experiments-examining-effects-extrinsic-rewards-on-intrinsic-motivation</id><content type="html" xml:base="https://fast.tk/reviews/2021/05/19/Review-Meta-Analytic-review-of-experiments-examining-effects-extrinsic-rewards-on-intrinsic-motivation.html">&lt;p&gt;Deci, E. L., Koestner, R., &amp;amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627–668. https:// https://doi.org/10.1037/0033-2909.125.6.627&lt;/p&gt;
-
-&lt;h2 id=&quot;abstract&quot;&gt;Abstract:&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A meta-analysis of 128 studies examined the effects of extrinsic rewards on intrinsic motivation. As predicted, engagement-contingent, completion-contingent, and performance-contingent rewards significantly undermined free-choice intrinsic motivation (d = -0.40, -0.36, and -0.28, respectively), as did all rewards, all tangible rewards, and all expected rewards. Engagement-contingent and completioncontingent rewards also significantly undermined self-reported interest (d = -0.15, and —0.17), as did all tangible rewards and all expected rewards. Positive feedback enhanced both free-choice behavior (d = 0.33) and self-reported interest (d = 0.31). Tangible rewards tended to be more detrimental for children than college students, and verbal rewards tended to be less enhancing for children than college students. The authors review 4 previous meta-analyses of this literature and detail how this study’s methods, analyses, and results differed from the previous ones.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;main-arguments&quot;&gt;Main arguments:&lt;/h2&gt;
-
-&lt;p&gt;A meta-analytic review first reviewed three previous meta-analysis that confirmed the effects of extrinsic rewards undermining intrinsic motivation, two reporting different conclusions, and find the most consistent finding was that task-contingent tangible rewards were detrimental to intrinsic motivation. 128 studies were aggregated to examine different reward types’ effects on intrinsic motivation, with results for the free-choice behavioral measure and the self-reported interest measure. specifically, as predicted, engagement-contingent rewards, completion-contingent rewards, and performance-contingent rewards significantly undermined free-choice intrinsic motivation, as did all rewards, tangible rewards and all expected rewards.&lt;/p&gt;
-
-&lt;p&gt;The meta-analysis provide strong confirmation that positive feedback enhances intrinsic motivation, which is predicted by cognitive evaluation theory (GET, later evolved into Self-Determination Theory, SDT). Substantially different results from informational vs. controlling verbal reward were found as well as predicted.&lt;/p&gt;
-
-&lt;p&gt;Key takeaway:&lt;/p&gt;
-
-&lt;p&gt;Reward and contingency types:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;verbal (unexpected) reward&lt;/li&gt;
-  &lt;li&gt;unexpected tangible reward&lt;/li&gt;
-  &lt;li&gt;expected tangible reward: task-noncontigent, engagement-contingent, completion-contingent, performance-contingent&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Common measures for intrinsic motivation:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Free-choice behavior&lt;/li&gt;
-  &lt;li&gt;Self-reported interest&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;CET (Cognitive Evaluation Theory) predicts unexpected, non-controlled reward do not undermine intrinsic motivation, as not perceived as controlling the autonomy.&lt;/p&gt;
-
-&lt;p&gt;Task-contingent tangible rewards detrimental to intrinsic motivation&lt;/p&gt;
-
-&lt;p&gt;Expected tangible reward contingent on task performance undermine intrinsic motivation&lt;/p&gt;
-
-&lt;p&gt;Informational verbal rewards enhance intrinsic motivation&lt;/p&gt;
-
-&lt;p&gt;Autonomy, mastery, purpose are the end goals&lt;/p&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;Notes:&lt;/h2&gt;
-
-&lt;p&gt;Chapter 8 of Reiss’ book of Myths of Intrinsic Motivation &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; were devoted to counter argue this meta-analysis:&lt;/p&gt;
-
-&lt;p&gt;Publication bias: no undermining research tend not to be published&lt;/p&gt;
-
-&lt;p&gt;Ceiling effects: many studies were significantly biased in favor of finding undermining effects because they pre-selected people with high levels of interest and due to ceiling effects could not measure when rewards further increased intrinsic interest.&lt;/p&gt;
-
-&lt;p&gt;Tips for motivation literature review:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We began by searching the PsycINFO and ERIC databases and recent editions of the Current Contents database for studies published between 1971 and August 1997. Varying combinations of the following search terms were entered: intrinsic motivation, rewards, reinforcement, free time, and free choice.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Reiss, Steven. Myths of Intrinsic Motivation, 2013. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Deci, E. L., Koestner, R., &amp;amp; Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation. Psychological Bulletin, 125(6), 627–668. https:// https://doi.org/10.1037/0033-2909.125.6.627</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="Reviews" /><summary type="html">Lakhani, Karim R. “How Open Source Software Works: ‘Free’ User-to-User Assistance.” Research Policy, 2003, 21.</summary></entry></feed>
