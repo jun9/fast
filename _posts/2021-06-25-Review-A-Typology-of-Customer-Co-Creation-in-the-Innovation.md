@@ -38,5 +38,5 @@ A Typology Classification for Customer Co‐Creation is proposed based on three 
 2. The degree of collaboration: the structure of the underlying relationships in an open innovation setting;
 3. The degrees of freedom: the nature of the task that has been assigned to customers
 
-![Figure 1: Typology of customer innovation at the front end of the innovation process](../../../../customer-innovation-fig-1.png)
-![Figure 2: Typology of customer innovation at the back end of the innovation process](../../../../customer-innovation-fig-1.png)
+![Figure 1: Typology of customer innovation at the front end of the innovation process](../../../../images/customer-innovation-fig-1.png)
+![Figure 2: Typology of customer innovation at the back end of the innovation process](../../../../images/customer-innovation-fig-1.png)
