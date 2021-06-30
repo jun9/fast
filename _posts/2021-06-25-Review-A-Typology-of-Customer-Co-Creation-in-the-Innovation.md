@@ -2,7 +2,7 @@
 toc: false
 layout: post
 categories: [Reviews]
-title: Review - Piller et al. - 2010 - A Typology of Customer Co-Creation in the Innovation
+title: Review - - A Typology of Customer Co-Creation in the Innovation
 ---
 Piller, Frank T., Christoph Ihl, Alexander Vossen. A Typology of Customer Co-Creation in the Innovation Process. SSRN Electronic Journal, 2010. https://doi.org/10.2139/ssrn.1732127.
 
